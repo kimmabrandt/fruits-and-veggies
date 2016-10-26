@@ -1,1 +1,12 @@
 /* file for your css */
+.text {
+padding-left:12px;
+padding-right:12px;
+}
+
+.left {
+position:absolute;
+background-color:red;
+left:20px;
+top:20px;
+}
